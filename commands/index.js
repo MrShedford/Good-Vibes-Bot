@@ -1,4 +1,5 @@
 module.exports = {
   Ping: require('./ping'),
-  Bingus: require('./bingus')
+  Math: require('./math'),
+  Annoy: require('./annoy')
 };
